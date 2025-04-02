@@ -1,5 +1,5 @@
 # Clinic-Management-System
-1. Fragmentation
+1. 
 Fragmentation is the process of dividing a database into smaller pieces (fragments) to improve efficiency and performance in a distributed system.
 Types of Fragmentation Used:
 
